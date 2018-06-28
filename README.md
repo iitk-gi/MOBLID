@@ -9,6 +9,7 @@ Mobile LiDAR Point Cloud dataset being large, these are available on the followi
 https://drive.google.com/file/d/1l0C5-poAR3uPLNx95vvaWWWzRYO0yU9O/view?usp=sharing
 
 Please note:
+
 Currently, there are 4 classes namely, ground, house, pole and tree. More classes will be added to this dataset soon.
 
 Each text file inside the folders of these classes is a sample. A sample data is provided in 4 columns corresponding to X, Y, Z and Intensity, separated by single space.
