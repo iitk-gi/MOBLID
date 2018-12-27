@@ -6,7 +6,7 @@ Title: MOBLID: Mobile LiDAR Sample Data for Training Deep Learning Systems
 
 Mobile LiDAR Point Cloud dataset being large, these are available on the following link:
 
-https://drive.google.com/file/d/19Ukzu6FW5aJlJ6NGs_MIAQrMzMdLvbmy/view?usp=sharing
+
 
 Please note:
 
